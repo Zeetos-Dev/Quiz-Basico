@@ -21,9 +21,9 @@ if(resoltado2== pergunta2){
   alert('esta errado')
 }
 
-var pergunta3 = prompt('o que aconteceu no dia 11 de setembro de 2001?')
+var pergunta3 = prompt('o mel consegui estragar?')
 
-var resoltado3 = 'um ataque terrorista'
+var resoltado3 = 'não pos tem muito açucar'
 
 if(resoltado3 == pergunta3){
   alert('esta certo')
