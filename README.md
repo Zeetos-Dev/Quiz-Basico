@@ -1,9 +1,9 @@
 # Quiz-Basico
 Um quiz basico para iniciantes em javascript
 
-var pergunta = prompt('qual a Capital do Brasil?')
+var pergunta = prompt('exemplo')
 
-var resoltado = 'Brasilia'
+var resoltado = 'Exemplo'
 
 if (resoltado == pergunta) {
   alert('esta certo')
@@ -11,9 +11,9 @@ if (resoltado == pergunta) {
   alert('esta errado')
 }
   
-var pergunta2 = prompt('qual o maior bioma do brasil?')
+var pergunta2 = prompt('Exemplo')
 
-var resoltado2 = 'Amazonia'
+var resoltado2 = 'Exemplo'
 
 if(resoltado2== pergunta2){
   alert('esta certo')
@@ -21,9 +21,9 @@ if(resoltado2== pergunta2){
   alert('esta errado')
 }
 
-var pergunta3 = prompt('o mel consegui estragar?')
+var pergunta3 = prompt('exemplo')
 
-var resoltado3 = 'não pos tem muito açucar'
+var resoltado3 = 'Exemplo'
 
 if(resoltado3 == pergunta3){
   alert('esta certo')
