@@ -1,8 +1,8 @@
 # Quiz-Basico
 
-//Não Se Esqueça De Trocar Os Nomes Das Variavels 
-
 Um quiz basico para iniciantes em javascript
+
+//Não Se Esqueça De Trocar o Nome Das Variáveis
 
 var pergunta = prompt('exemplo')
 
